@@ -1,6 +1,6 @@
 https://dasaali.github.io/ascii/
 
-Customization
+Customization:
 
 Density characters: Edit density in ascii.js to change ASCII style:
 
